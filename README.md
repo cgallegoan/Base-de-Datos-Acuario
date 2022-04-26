@@ -8,7 +8,7 @@ Para la creación de la base de datos se ha realizado:
 - Creación de datos a través de python (datos inventados). Coordinadamente a través de deepnote
 - Informes a través de BIRT eclipse
 - Diferentes procedimientos, Funciones y disparadores en ORACLE para hacer la base de datos realista
-- Posterior implementación en Cassandra y Neo4j
+- Posterior implementación en Cassandra y Neo4j (Trabajo asignatura de Gestión de Bases de Datos (GDA)
 
 ### Resumen de la base de datos
 Nuestra base de datos está orientada al parque-acuario H2OLANDA (es un nombre inventado por nosotros). En este parque existen diversos espacios, que tienen un código que los identifican, un nombre único, una situación en el parque [abierto, cerrado, en mantenimiento, en construcción] y una superficie. De los espacios, unos son peceras, con su respectiva información: número de animales que contienen y capacidad (en litros), y otros tienen diferentes funciones ['Restaurante','Punto de información','Expositor','Seguridad','Atención al cliente','Almacén','Centro médico'].
