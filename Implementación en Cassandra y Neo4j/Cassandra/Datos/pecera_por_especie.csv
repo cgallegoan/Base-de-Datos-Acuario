@@ -1,0 +1,77 @@
+"COD_ESPECIE";"NOMBRE_CIENTIFICO";"NOMBRE";"SITUACION";"SUPERFICIE"
+"esp032";"Abudefduf troschelii";"El Zulo de Patricio";"Abierto";49
+"esp008";"Acanthocybium solandri";"La Leyenda de La sirenita";"Abierto";24
+"esp002";"Acanthurus leucosternon";"La Leyenda de Bob Esponja";"Abierto";98
+"esp049";"Acipenser baerii";"La Leyenda de Bob Esponja";"Abierto";98
+"esp038";"Aequorea victoria";"La Casa Blanca de La medusa";"Abierto";88
+"esp006";"Aplodinotus grunniens";"El Crustáceo Crujiente de Calamardo";"Abierto";97
+"esp047";"Atelomycterus macleayi";"La Cascada de Tritonmán";"Abierto";36
+"esp001";"Betta splendens";"La Leyenda de Pinocho";"Abierto";26
+"esp010";"Carcharodon carcharias";"La Cascada de Neptuno";"Abierto";12
+"esp021";"Carettochelys insculpta";"El Cuchitril de Arenita";"Abierto";28
+"esp024";"Centrophryne spinulosa";"El Castillo de Tritonmán";"Abierto";32
+"esp004";"Chaetodipterus faber";"El Palacio de Tritonmán";"Abierto";13
+"esp025";"Chaetodon striatus";"El Cuchitril de Bob Esponja";"Abierto";92
+"esp023";"Chelonia mydas";"La Leyenda de Pinocho";"Abierto";26
+"esp019";"Chironex fleckeri";"La Casa Blanca de La sepia";"Abierto";89
+"esp064";"Chlamydoselachus anguineus";"La Leyenda de La medusa";"Abierto";25
+"esp017";"Chrysaora quinquecirrha";"El Crustáceo Crujiente de Dora";"Abierto";19
+"esp073";"Culcita novaeguineae";"El Dorado de Patricio";"Abierto";43
+"esp044";"Cyprinus carpio";"El Castillo de Calamardo";"Abierto";98
+"esp075";"Dardanus calidus";"La Casa Blanca de Bob Esponja";"Abierto";28
+"esp016";"Dermochelys coriacea";"La Cascada de Neptuno";"Abierto";12
+"esp037";"Diodon hystrix";"El Castillo de Tritonmán";"Abierto";32
+"esp066";"Dipturus laevis";"La Casa Blanca de Bob Esponja";"Abierto";28
+"esp036";"Dissostichus eleginoides";"El Zulo de La sirenita";"Abierto";73
+"esp063";"echinoderms";"El Palacio de Neptuno";"En mantenimiento";37
+"esp072";"Ecsenius mandibularis";"La Leyenda de Calamardo";"Cerrado";51
+"esp015";"Enteroctopus dofleini";"El Zulo de La sirenita";"Abierto";73
+"esp046";"Epinephelus itajara";"La Casa Blanca de Bob Esponja";"Abierto";28
+"esp055";"Glyptemys insculpta";"La Playa de Patricio";"Abierto";46
+"esp069";"Gopherus polyphemus";"El Cuchitril de Dora";"Abierto";89
+"esp071";"Haliotis asinina";"La Leyenda de Manolo";"Abierto";36
+"esp028";"Hippocampus guttulatus";"El Zulo de Tritonmán";"Abierto";77
+"esp053";"Hippocampus reidi";"El Cuchitril de Arenita";"Abierto";28
+"esp058";"Hippoglossus hippoglossus";"El Cuchitril de Bob Esponja";"Abierto";92
+"esp026";"Idiacanthus atlanticus";"El Dorado de Patricio";"Abierto";43
+"esp057";"Isurus paucus";"La Leyenda de Bob Esponja";"Abierto";98
+"esp003";"Katsuwonus pelamis";"La Cúpula de La sepia";"Abierto";17
+"esp045";"Labroides dimidiatus";"La Cascada de Neptuno";"Abierto";12
+"esp050";"Lactoria cornuta";"La Leyenda de La medusa";"Abierto";25
+"esp070";"Lamna ditropis";"La Casa Blanca de Serafín el delfín";"Abierto";54
+"esp043";"Lampetra fluviatilis";"El Crustáceo Crujiente de Dora";"Abierto";19
+"esp041";"Latimeria chalumnae";"El Crustáceo Crujiente de Poseidón";"Cerrado";96
+"esp051";"Limulus polyphemus";"La Leyenda de Manolo";"Abierto";36
+"esp065";"Lophius";"La Leyenda de Manolo";"Abierto";36
+"esp060";"Macrochelys temminckii";"El Dorado de Arenita";"En mantenimiento";10
+"esp062";"Malacosteus";"La Cascada de Tritonmán";"Abierto";36
+"esp035";"Manonichthys splendens";"La Casa Blanca de Serafín el delfín";"Abierto";54
+"esp039";"Melanogrammus aeglefinus";"La Casa Blanca de Pinocho";"Abierto";90
+"esp040";"Metasepia pfefferi";"El Dorado de Patricio";"Abierto";43
+"esp061";"Mobula mobular";"El Crustáceo Crujiente de Dora";"Abierto";19
+"esp012";"Mola mola";"La Playa de Arenita";"Abierto";57
+"esp042";"Neoceratodus forsteri";"El Dorado de La sirenita";"En mantenimiento";47
+"esp056";"Nephrops norvegicus";"La Leyenda de Bob Esponja";"Abierto";98
+"esp067";"Ocellaris clownfish";"El Cuchitril de Bob Esponja";"Abierto";92
+"esp022";"Orcinus orca";"La Casa Blanca de Pinocho";"Abierto";90
+"esp052";"Panulirus versicolor";"El Zulo de Neptuno";"Abierto";62
+"esp033";"Paralithodes camtschaticus";"La Cascada de Neptuno";"Abierto";12
+"esp018";"Physalia physalis";"La Playa de Manolo";"Abierto";81
+"esp059";"Pristiophorus schroederi";"El Cuchitril de Arenita";"Abierto";28
+"esp005";"Psychrolutes marcidus";"La Casa Blanca de Pinocho";"Abierto";90
+"esp076";"Pterois volitans";"El Zulo de La sirenita";"Abierto";73
+"esp048";"Regalecus glesne";"La Casa Blanca de Pinocho";"Abierto";90
+"esp020";"Rhizostoma pulmo";"El Cuchitril de Calamardo";"Cerrado";24
+"esp031";"Sebastes ruberrimus";"La Leyenda de Bob Esponja";"Abierto";98
+"esp007";"Siganus vulpinus";"El Cuchitril de Calamardo";"Cerrado";24
+"esp027";"Somniosus microcephalus";"La Cascada de Serafín el delfín";"Abierto";77
+"esp011";"Sphyrna mokarran";"La Cascada de Tritonmán";"Abierto";36
+"esp029";"Squatina aculeata";"El Dorado de La sirenita";"En mantenimiento";47
+"esp030";"Squatina dumeril";"La Cúpula de La sepia";"Abierto";17
+"esp034";"Stegostoma fasciatum";"La Leyenda de Calamardo";"Cerrado";51
+"esp054";"Stenopus hispidus";"La Casa Blanca de La medusa";"Abierto";88
+"esp013";"Synchiropus splendidus";"La Casa Blanca de Pinocho";"Abierto";90
+"esp074";"Terrapene coahuila";"La Casa Blanca de Neptuno";"Abierto";54
+"esp068";"Teuthidodrilus samae";"La Cúpula de Dora";"Abierto";35
+"esp014";"Tursiops truncatus";"La Cascada de La sepia";"Abierto";43
+"esp009";"Vermilion snapper";"La Cascada de Neptuno";"Abierto";12

@@ -1,0 +1,36 @@
+COD_ESP;NOMBRE;SITUACION;SUPERFICIE;FUNCIONES
+ef001;La Leyenda de Neptuno;Abierto;58;{Restaurante}
+ef002;El Crustáceo Crujiente de La sepia;Abierto;74;{Atención al cliente, Expositor, Restaurante}
+ef003;El Zulo de Manolo;Cerrado;78;{Punto de información}
+ef004;El Dorado de Neptuno;Abierto;52;{Atención al cliente, Punto de información}
+ef005;La Cúpula de Pinocho;Abierto;70;{Almacén, Punto de información}
+ef006;El Crustáceo Crujiente de La sirenita;En mantenimiento;83;{Restaurante}
+ef007;El Palacio de Dora;Abierto;52;{Almacén}
+ef008;El Cuchitril de La medusa;Abierto;91;{Punto de información, Restaurante}
+ef009;El Palacio de Bob Esponja;Abierto;88;{Almacén, Restaurante}
+ef010;El Castillo de Dora;Abierto;17;{Expositor, Restaurante}
+ef011;El Palacio de La medusa;Abierto;77;{Restaurante}
+ef012;La Cúpula de Arenita;Abierto;53;{Expositor}
+ef013;La Casa Blanca de Dora;Abierto;63;{Expositor, Punto de información, Restaurante}
+ef014;El Crustáceo Crujiente de Tritonmán;Abierto;83;{Restaurante}
+ef015;El Castillo de La sirenita;Abierto;100;{Punto de información}
+ef016;La Cascada de Manolo;Abierto;29;{Atención al cliente, Punto de información, Restaurante}
+ef017;El Crustáceo Crujiente de La medusa;Abierto;55;{Expositor, Punto de información, Restaurante, Seguridad}
+ef018;El Dorado de Tritonmán;Abierto;37;{Atención al cliente, Punto de información, Restaurante}
+ef019;El Palacio de Calamardo;Abierto;59;{Atención al cliente, Expositor, Punto de información, Restaurante}
+ef020;La Casa Blanca de Arenita;En mantenimiento;34;{Almacén, Restaurante}
+ef021;La Leyenda de Serafín el delfín;Abierto;36;{Expositor, Restaurante}
+ef022;El Cuchitril de Serafín el delfín;En construcción;30;{Expositor, Punto de información, Restaurante, Seguridad}
+ef023;La Cascada de Dora;En construcción;92;{Centro médico, Expositor, Punto de información}
+ef024;El Palacio de Arenita;Cerrado;19;{Atención al cliente, Expositor, Restaurante}
+ef025;El Zulo de Calamardo;En construcción;88;{Atención al cliente, Punto de información, Restaurante}
+ef026;El Zulo de Bob Esponja;Abierto;83;{Expositor, Punto de información, Restaurante}
+ef027;El Castillo de Pinocho;En mantenimiento;92;{Restaurante}
+ef028;La Playa de Serafín el delfín;Abierto;25;{Expositor, Restaurante}
+ef029;El Palacio de Poseidón;Abierto;41;{Restaurante}
+ef030;La Cascada de La sirenita;Abierto;49;{Punto de información, Restaurante}
+ef031;El Zulo de Pinocho;Abierto;92;{Atención al cliente, Centro médico, Expositor, Punto de información}
+ef032;La Cúpula de Serafín el delfín;Abierto;72;{Punto de información, Restaurante, Seguridad}
+ef033;El Palacio de La sirenita;Abierto;22;{Expositor, Restaurante, Seguridad}
+ef034;El Palacio de La sepia;Abierto;69;{Expositor}
+ef035;La Playa de Poseidón;Abierto;52;{Expositor, Punto de información, Seguridad}
