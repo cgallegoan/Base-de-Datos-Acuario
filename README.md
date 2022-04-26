@@ -5,7 +5,7 @@ Para la creación de la base de datos se ha realizado:
 - Diseño conceptual (DISEÑO CONCEPTUAL.pdf)
 - Diseño lógico (DISEÑO LOGICO.pdf)
 - Implementación en ORACLE SQL (esquema relacional)
-- Carga de datos a través de python (datos inventados). Coordinadamente a través de deepnote
+- Creación de datos a través de python (datos inventados). Coordinadamente a través de deepnote
 - Informes a través de BIRT eclipse
 - Diferentes procedimientos, Funciones y disparadores en ORACLE para hacer la base de datos realista
 - Posterior implementación en Cassandra y Neo4j
