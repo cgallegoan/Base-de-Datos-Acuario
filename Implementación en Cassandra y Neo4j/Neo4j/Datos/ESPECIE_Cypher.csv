@@ -1,0 +1,77 @@
+"COD_ESPECIE";"NOMBRE_CIENTIFICO";"LUGAR_ORIGEN";"GENERAL_SIZE";"CLASE";"ALIMENTACION";"N_EJEMPLARES"
+"esp028";"Hippocampus guttulatus";"Océano Atlántico Norte";0,12;"Actinopterygii";"Omnívoro";31
+"esp029";"Squatina aculeata";"Costas Africanas";1,2;"Chondrichthyes";"Carnívoro";5
+"esp030";"Squatina dumeril";"Costa Atlántica Oeste";1,3;"Chondrichthyes";"Carnívoro";33
+"esp031";"Sebastes ruberrimus";"Océano Pacífico Este";0,8;"Actinopterygii";"Omnívoro";3
+"esp032";"Abudefduf troschelii";"Océano Atlántico";0,23;"Actinopterygii";"Herbívoro";35
+"esp033";"Paralithodes camtschaticus";"Océano Pacífico Norte";1,7;"Malacostraca";"Omnívoro";28
+"esp034";"Stegostoma fasciatum";"Océano Indo-Pacífico";2,5;"Chondrichthyes";"Carnívoro";30
+"esp035";"Manonichthys splendens";"Océano Indo-Pacífico";0,13;"Actinopterygii";"Herbívoro";2
+"esp036";"Dissostichus eleginoides";"Múltiples Océanos";2;"Actinopterygii";"Omnívoro";25
+"esp037";"Diodon hystrix";"Mar Mediterráneo";0,2;"Actinopterygii";"Carnívoro";34
+"esp038";"Aequorea victoria";"Norteamérica";0,4;"Hydrozoa";"Omnívoro";21
+"esp039";"Melanogrammus aeglefinus";"Océano Atlántico Norte";0,65;"Actinopterygii";"Carnívoro";21
+"esp040";"Metasepia pfefferi";"Océano Indo-Pacífico";0,6;"Cephalopoda";"Omnívoro";3
+"esp041";"Latimeria chalumnae";"Océano Índico";1,6;"Sarcopterygii";"Omnívoro";9
+"esp042";"Neoceratodus forsteri";"Australia";1;"Sarcopterygii";"Herbívoro";2
+"esp043";"Lampetra fluviatilis";"Europa";0,35;"Hyperoartia";"Omnívoro";21
+"esp044";"Cyprinus carpio";"Europa y Asia";0,8;"Actinopterygii";"Omnívoro";21
+"esp045";"Labroides dimidiatus";"Océano Indo-Pacífico";0,1;"Actinopterygii";"Omnívoro";15
+"esp046";"Epinephelus itajara";"Múltiples Océanos";1,8;"Actinopterygii";"Carnívoro";18
+"esp047";"Atelomycterus macleayi";"Costas Tropicales";0,6;"Chondrichthyes";"Carnívoro";11
+"esp048";"Regalecus glesne";"Múltiples Océanos";4;"Actinopterygii";"Carnívoro";18
+"esp049";"Acipenser baerii";"Asia";1,1;"Actinopterygii";"Omnívoro";7
+"esp050";"Lactoria cornuta";"Océano Indo-Pacífico";0,4;"Actinopterygii";"Omnívoro";26
+"esp051";"Limulus polyphemus";"Golfo de México";0,6;"Merostomata";"Herbívoro";5
+"esp052";"Panulirus versicolor";"Océano Indo-Pacífico";0,4;"Malacostraca";"Carnívoro";24
+"esp053";"Hippocampus reidi";"Océano Atlántico";0,175;"Syngnathidae";"Herbívoro";26
+"esp054";"Stenopus hispidus";"Océano Atlántico Oeste";0,06;"Malacostraca";"Herbívoro";35
+"esp055";"Glyptemys insculpta";"Oceáno Atlántico";0,23;"Reptilia";"Carnívoro";31
+"esp056";"Nephrops norvegicus";"Océano Atlántico Noreste";0,25;"Malacostraca";"Detrívoro";31
+"esp057";"Isurus paucus";"Oceáno Atlántico";2,5;"Chondrichthyes";"Carnívoro";28
+"esp058";"Hippoglossus hippoglossus";"Océano Atlántico";1;"Actinopterygii";"Carnívoro";6
+"esp059";"Pristiophorus schroederi";"Océano Atlántico";0,8;"Chondrichthyes";"Carnívoro";25
+"esp060";"Macrochelys temminckii";"Múltiples Océanos";0,8;"Reptilia";"Carnívoro";7
+"esp061";"Mobula mobular";"Mar Mediterráneo";5,2;"Elasmobranchii";"Carnívoro";32
+"esp062";"Malacosteus";"Múltiples Océanos";0,25;"Actinopterygii";"Carnívoro";6
+"esp063";"echinoderms";"Múltiples Océanos";0,3;"Holothuroidea";"Carnívoro";28
+"esp064";"Chlamydoselachus anguineus";"Océano Atlántico";2;"Chondrichthyes";"Carnívoro";10
+"esp065";"Lophius";"Costas Europeas";1,5;"Actinopterygii";"Carnívoro";35
+"esp066";"Dipturus laevis";"Océano Atlántico";1,5;"Chondrichthyes";"Carnívoro";18
+"esp067";"Ocellaris clownfish";"Océano Índico";0,1;"Actinopterygii";"Omnívoro";32
+"esp068";"Teuthidodrilus samae";"Océano Pacífico Oeste";0,09;"Polychaeta";"Carnívoro";32
+"esp069";"Gopherus polyphemus";"Costa Este de EE,UU,";0,35;"Reptilia";"Herbívoro";5
+"esp070";"Lamna ditropis";"Océano Pacífico del Norte";2,3;"Chondrichthyes";"Carnívoro";12
+"esp071";"Haliotis asinina";"Océano Índico";0,1;"Gastropoda";"Herbívoro";12
+"esp072";"Ecsenius mandibularis";"Océano Pacífico Oeste";0,075;"Actinopterygii";"Herbívoro";4
+"esp073";"Culcita novaeguineae";"Océano Indo-Pacífico";0,3;"Asteroidea";"Herbívoro";17
+"esp074";"Terrapene coahuila";"Golfo de México";0,14;"Reptilia";"Omnívoro";6
+"esp075";"Dardanus calidus";"Océano Atlántico";0,21;"Malacostraca";"Omnívoro";32
+"esp076";"Pterois volitans";"Océano Indo-Pacífico";2;"Actinopterygii";"Carnívoro";14
+"esp001";"Betta splendens";"Sudeste Asiático";0,06;"Actinopterygii";"Omnívoro";27
+"esp002";"Acanthurus leucosternon";"Océano Indo-Pacífico";0,173;"Actinopterygii";"Herbívoro";11
+"esp003";"Katsuwonus pelamis";"Océanos Tropicales";0,8;"Actinopterygii";"Omnívoro";16
+"esp004";"Chaetodipterus faber";"Océano Atlántico";0,504;"Actinopterygii";"Omnívoro";8
+"esp005";"Psychrolutes marcidus";"Costas Australianas";0,2;"Actinopterygii";"Omnívoro";9
+"esp006";"Aplodinotus grunniens";"Norteamérica";0,381;"Actinopterygii";"Omnívoro";13
+"esp007";"Siganus vulpinus";"Océano Pacífico Oeste";0,1;"Actinopterygii";"Herbívoro";11
+"esp008";"Acanthocybium solandri";"Océano Atlántico";0,14;"Actinopterygii";"Herbívoro";25
+"esp009";"Vermilion snapper";"Océano Atlántico Oeste";0,35;"Actinopterygii";"Omnívoro";14
+"esp010";"Carcharodon carcharias";"Múltiples Océanos";6,4;"Chondrichthyes";"Carnívoro";7
+"esp011";"Sphyrna mokarran";"Costas Tropicales";3,9;"Chondrichthyes";"Carnívoro";4
+"esp012";"Mola mola";"Costas Tropicales";2,2;"Actinopterygii";"Omnívoro";12
+"esp013";"Synchiropus splendidus";"Océano Pacífico";0,06;"Actinopterygii";"Carnívoro";10
+"esp014";"Tursiops truncatus";"Múltiples Océanos";1,25;"Mammalia";"Carnívoro";4
+"esp015";"Enteroctopus dofleini";"Océano Atlántico Oeste";4,3;"Cephalopoda";"Carnívoro";34
+"esp016";"Dermochelys coriacea";"Océano Pacífico";2,3;"Sauropsida";"Omnívoro";9
+"esp017";"Chrysaora quinquecirrha";"Costas Tropicales";0,4;"Scyphozoa";"Carnívoro";22
+"esp018";"Physalia physalis";"Costas Tropicales";0,2;"Hydrozoa";"Carnívoro";22
+"esp019";"Chironex fleckeri";"Costas Australianas";0,9;"Cubozoa";"Omnívoro";35
+"esp020";"Rhizostoma pulmo";"Océano Atlántico Este";0,8;"Scyphozoa";"Herbívoro";34
+"esp021";"Carettochelys insculpta";"Océano Indo-Pacífico";0,6;"Sauropsida";"Omnívoro";19
+"esp022";"Orcinus orca";"Múltiples Océanos";8;"Mammalia";"Carnívoro";18
+"esp023";"Chelonia mydas";"Costas Tropicales";0,12;"Sauropsida";"Herbívoro";17
+"esp024";"Centrophryne spinulosa";"Océano Atlántico";0,2;"Actinopterygii";"Carnívoro";4
+"esp025";"Chaetodon striatus";"Océano Atlántico Oeste";0,15;"Actinopterygii";"Omnívoro";25
+"esp026";"Idiacanthus atlanticus";"Costas Sud-Africanas";0,4;"Actinopterygii";"Omnívoro";6
+"esp027";"Somniosus microcephalus";"Océano Glacial Ártico";3;"Chondrichthyes";"Carnívoro";25
